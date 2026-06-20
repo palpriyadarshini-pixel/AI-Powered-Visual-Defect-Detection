@@ -184,7 +184,7 @@ The transfer learning approach significantly improved performance and provided h
 ### Clone the Repository
 
 ```bash
-git clone <repository-link>
+git clone <[repository-link](https://github.com/palpriyadarshini-pixel/AI-Powered-Visual-Defect-Detection.git)>
 cd AI_POWERED_VISUAL_DEFECT_DETECTION
 ```
 
