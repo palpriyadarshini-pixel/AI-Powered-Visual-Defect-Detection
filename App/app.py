@@ -91,9 +91,18 @@ def load_model():
 
     model.fc = nn.Linear(512, 6)
 
+    import os
+
+    MODEL_PATH = os.path.join(
+        os.path.dirname(__file__),
+        "..",
+        "models",
+        "resnet18_final.pth"
+    )
+
     model.load_state_dict(
         torch.load(
-            "../models/resnet18_final.pth",
+            MODEL_PATH,
             map_location="cpu"
         )
     )
