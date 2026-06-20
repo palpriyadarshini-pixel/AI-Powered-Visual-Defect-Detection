@@ -1,5 +1,9 @@
 # AI-Powered Visual Defect Detection System
 
+🔗 Live Demo: [https://ai-powered-visual-defect-detection-pryaxjddqh8uskqqgwzhlm.streamlit.app/](https://ai-powered-visual-defect-detection-pryaxjddqh8uskqqgwzhlm.streamlit.app/)
+
+This project uses Deep Learning and Transfer Learning (ResNet18) to automatically detect and classify steel surface defects.
+
 ## Overview
 
 This project focuses on the automated detection and classification of surface defects in steel sheets using deep learning techniques. The system is trained on the NEU Surface Defect Database and is capable of identifying six different categories of manufacturing defects.
